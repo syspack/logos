@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: HKGrotesk-Medium
+font link: https://hanken.co/product/hk-grotesk/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: Eugene Maksymchuk
+icon designer link: /emaksymchuk
+        
+{"bg":"#EAEDF9","font":"#202A4F","icon-gradient-0":"#395ECA","icon-gradient-1":"#848BD8","slogan":"#343e63"}
+      
